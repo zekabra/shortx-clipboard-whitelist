@@ -1,5 +1,2 @@
-# xposed-clipboard-whitelist
-Allow KDE Connect read clipboard in background
-
-## TODO
-- [ ] Custom whitelist (maybe much later)
+# shortx-clipboard-whitelist
+Allow Shortx read clipboard in background
