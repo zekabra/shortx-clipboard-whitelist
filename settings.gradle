@@ -18,5 +18,5 @@ dependencyResolutionManagement {
 //        producesModule("de.robv.android.xposed:api")
 //    }
 //}
-rootProject.name = "BG clipboard"
+rootProject.name = "Shortx clipboard"
 include ':app'
