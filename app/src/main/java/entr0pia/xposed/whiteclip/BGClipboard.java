@@ -1,4 +1,4 @@
-package entr0pia.xposed.whiteclip;
+package shortx.xposed.whiteclip;
 
 import static de.robv.android.xposed.XposedHelpers.*;
 
