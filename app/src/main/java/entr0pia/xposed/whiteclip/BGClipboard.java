@@ -14,7 +14,7 @@ import de.robv.android.xposed.callbacks.XC_LoadPackage;
 
 public class BGClipboard implements IXposedHookLoadPackage {
     static String logtag = "=== ClipboardService Hook ===";
-    static String whiteList = "org.kde.kdeconnect_tp";
+    static String whiteList = "tornaco.apps.shortx";
 
     @Override
     public void handleLoadPackage(XC_LoadPackage.LoadPackageParam lpparam) throws Throwable {
