@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">KDE Connect clipboard</string>
-    <string name="xposed_desc">Allow KDE Connect read clipboard in background</string>
+    <string name="app_name">Shortx clipboard</string>
+    <string name="xposed_desc">Allow Shortx read clipboard in background</string>
 </resources>
